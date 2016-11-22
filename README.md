@@ -12,7 +12,7 @@ Feel free to clone down, modify, suggest changes, tweet me ideas [@ZephrFish](ht
 Sometimes manipulating markdown for some can be an alien task, luckily there are several tools out there for writing it and helping out, below is a list of some for online,windows, OSX & Linux.
 
 ### Online
-- [Stackedit.io](Stackedit.io)
+- [Stackedit.io](https://stackedit.io/)
 
 ### Windows
 - [Haroopad](http://pad.haroopress.com/)
