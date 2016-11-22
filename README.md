@@ -6,7 +6,6 @@ Feel free to clone down, modify, suggest changes, tweet me ideas [@ZephrFish](ht
 ## Templates Included
 - Blank Template
 - Headers only Template
-- Full PoC Template
 - Example Template
 
 ## Further reading
