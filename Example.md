@@ -5,9 +5,11 @@ Cross-Site Scripting (XSS) attacks are a type of injection, in which malicious s
 The consultant identified that the update profile picture is vulnerable to cross site scripting, it is possible to upload an image with a MIME type of `text/html` this is then stored on the user's profile as an XSS payload, the outline below demonstrates the steps taken to exploit and reproduce.
 
 ##Risk Breakdown
-Risk: **High**
-Difficulty to Exploit: **Medium**
-CVSS2 Score: **7.9** [(AV:N/AC:M/Au:S/C:C/I:C/A:N)](https://nvd.nist.gov/cvss.cfm?calculator&version=2&vector=(AV:N/AC:M/Au:S/C:C/I:C/A:N))
+- Risk: **High**
+ 
+- Difficulty to Exploit: **Medium**
+ 
+- CVSS2 Score: **7.9** [(AV:N/AC:M/Au:S/C:C/I:C/A:N)](https://nvd.nist.gov/cvss.cfm?calculator&version=2&vector= (AV:N/AC:M/Au:S/C:C/I:C/A:N))
 
 ##Affected URLs
  - https://example.com/update-profile
