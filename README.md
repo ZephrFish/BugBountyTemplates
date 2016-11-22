@@ -7,6 +7,7 @@ Feel free to clone down, modify, suggest changes, tweet me ideas [@ZephrFish](ht
 - Blank Template
 - Headers only Template
 - Example Template
+- Short Template - Like a TL;DR Template
 
 ## Writing Markdown 
 Sometimes manipulating markdown for some can be an alien task, luckily there are several tools out there for writing it and helping out, below is a list of some for online,windows, OSX & Linux.
