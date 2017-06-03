@@ -1,8 +1,6 @@
 # Title
 ## Issue Description
-A generic overview of the issue, I usually use the default text from OWASP as it explains the issue well.
-### Issue Identified
-A more specific description of the issue identified within the application.
+A generic overview of the issue, I usually use the default text from OWASP as it explains the issue well. Include a more specific description of the issue identified within the application.
 
 ## Affected URL/Area
 - The affected urls or area of the application where the issue exists.
@@ -18,10 +16,7 @@ A more specific description of the issue identified within the application.
 - Do they need authentication?
 - Who else does it affect?
 
-### Attack Scenario
-- What does an attacker need to do
-
-## Steps to reproduce
+## Steps to reproduce/PoC
 A clear outline of the steps required to execute the payload as an attacker, this can include how to setup the payload and launch it.
 - Request
 - Response
