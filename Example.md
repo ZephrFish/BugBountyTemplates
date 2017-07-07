@@ -43,7 +43,7 @@ When this is sent, the following response is shown:
     
     {"url": "https://example.com/56fc3b92159006271305543ef45a04452e8e45ce4/stored_XSS.jpg?Expires=1465669904&Signature=dNtl1PzWV&Key-Pair-Id=APKAJQWLJPIV25LBZGAQ", "pk": "56fc3b92159006271305543ef45a04452e8e45ce4/stored_XSS.jpg", "success": true}
 
-** Step 3:**
+**Step 3:**
 The file has been uploaded to Application X and is hyperlinked to from the profile page as shown in step 3.jpg. By simply following the link to the image which in this case is:
 
     https://example.com/56fc3b92159006271305543ef45a04452e8e45ce4/stored_XSS.jpg
