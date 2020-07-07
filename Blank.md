@@ -8,7 +8,7 @@ A generic overview of the issue, I usually use the default text from OWASP as it
 ## Risk Rating
 - Risk: Something
 - Difficulty to Exploit: Somethingelse
-- CVSS2 Score [blah](https://nvd.nist.gov/cvss.cfm?calculator&version=2&vector=(AV:N/AC:M/Au:S/C:C/I:C/A:N))
+- CVSS3 Score [blah](https://nvd.nist.gov/cvss.cfm?calculator&version=3&vector=(AV:N/AC:M/Au:S/C:C/I:C/A:N))
 - Authentication?
 
 ### Impact
