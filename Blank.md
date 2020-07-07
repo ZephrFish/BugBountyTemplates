@@ -8,7 +8,7 @@ A generic overview of the issue, I usually use the default text from OWASP as it
 ## Risk Rating
 - Risk: Something
 - Difficulty to Exploit: Somethingelse
-- CVSS2 Score [blah](https://nvd.nist.gov/cvss.cfm?calculator&version=2&vector=(AV:N/AC:M/Au:S/C:C/I:C/A:N)
+- CVSS2 Score [blah](https://nvd.nist.gov/cvss.cfm?calculator&version=2&vector=(AV:N/AC:M/Au:S/C:C/I:C/A:N))
 - Authentication?
 
 ### Impact
@@ -20,7 +20,7 @@ A generic overview of the issue, I usually use the default text from OWASP as it
 A clear outline of the steps required to execute the payload as an attacker, this can include how to setup the payload and launch it.
 - Request
 - Response
-- Show,Introduce, Discuss
+- Show, Introduce, Discuss
 - Screenshots
 
 ## Affected Demographic/User Base 
