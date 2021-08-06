@@ -12,6 +12,8 @@ Feel free to clone down, modify, suggest changes, tweet me ideas [@ZephrFish](ht
 ## Writing Markdown 
 Sometimes manipulating markdown for some can be an alien task, luckily there are several tools out there for writing it and helping out, below is a list of some for online,windows, OSX & Linux.
 
+VS Code now supports markdown by default via plugins, and so do many other text editors. VSCode is cross platform and a good option for writing.
+
 ### Online
 - [Stackedit.io](https://stackedit.io/)
 
